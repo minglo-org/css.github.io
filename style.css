@@ -1,0 +1,13 @@
+/* used to set a different logo */
+.nav-bar__logo img {
+	content: url(https://raw.githubusercontent.com/minglo-org/css.github.io/main/logo.png);
+}
+
+.login .argo__logo {
+	background-image: url(https://raw.githubusercontent.com/minglo-org/css.github.io/main/brand.png);
+}
+
+
+.login login__logo logo-image img {
+	content: url(https://raw.githubusercontent.com/minglo-org/css.github.io/main/brand.png);
+}
